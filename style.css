@@ -1,0 +1,60 @@
+h1 {
+  color: #ffadad;
+}
+h2 {
+  font-family: cursive;
+  text-align: center;
+}
+h3 {
+  color: #bdb2ff;
+  font-size: 25px;
+}
+p {
+  font-family: monospace;
+  font-size: 16px;
+}
+
+body {
+  background-color: #f0efeb;
+  padding: 10px;
+  text-align: center;
+}
+strong {
+  font-family: monospace;
+}
+.trabalho-bem-em-equipe,
+.empatica,
+.disposta,
+.proativa {
+  font-size: larger;
+  line-height: 30px;
+}
+.foto-container {
+}
+.paragrafos {
+  width: 65%;
+  display: inline-block;
+  margin-left: 20px;
+  vertical-align: middle;
+  text-align: left;
+}
+
+img {
+  border-radius: 50%;
+  width: 25%;
+  padding: 10px;
+  background-color: #dfe7fd;
+  display: inline-block;
+  vertical-align: middle;
+}
+ul,
+ol {
+  list-style-position: inside;
+  padding-left: 0;
+}
+li {
+  font-family: monospace;
+}
+a {
+  line-height: 24px;
+}
